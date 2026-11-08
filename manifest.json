@@ -1,0 +1,12 @@
+{
+  "id": "qrcode",
+  "name": "QR Code",
+  "version": "3.0.1",
+  "author": "Rotmayer24",
+  "description": "QR codes from text and links, with an optional image in the centre. A panel button opens it as a mini window.",
+  "icon": "grid",
+  "enabledByDefault": true,
+  "themes": ["pixel", "mac"],
+  "barWidget": "BarWidget.qml",
+  "settings": "Settings.qml"
+}
